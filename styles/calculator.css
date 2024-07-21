@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+  }
+
+  p{
+    margin: 12px;
+  }
+  .left-side{
+    color: white;
+    background-color: rgb(65, 65, 65);
+    padding: 12px 17px;
+    border: none;
+    border-radius: 20px;
+    margin-right: 3px;
+    cursor: pointer;
+  }
+
+  .right-side{
+    color: white;
+    background-color: rgb(243, 154, 22);
+    border: none;
+    padding: 12px 17px;
+    border-radius: 20px;
+    margin-left: 4px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+
+  .js-result{
+      color: white;
+      font-size: 30px;
+      margin-top: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-bottom: 5px;
+  }
