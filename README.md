@@ -1,7 +1,7 @@
 # Simple Calculator
 
 ## Description
-A simple Calculator built with vanilla JavaScript, CSS3 & HTML5. It has ability to Perform basic functions such as ##Addition, Subtraction, Multipy, Divide
+A simple Calculator built with vanilla JavaScript, CSS3 & HTML5. It has ability to Perform basic functions such as Addition, Subtraction, Multipy, Divide
 
 ## Features
 - User-friendly interface
